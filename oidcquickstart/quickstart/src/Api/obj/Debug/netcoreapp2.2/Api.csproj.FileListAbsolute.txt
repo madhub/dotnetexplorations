@@ -1,0 +1,14 @@
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.dll
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.pdb
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb

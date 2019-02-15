@@ -1,0 +1,11 @@
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.dll
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.pdb
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.dll
+E:\dev\dotnetapps\oidcquickstart\quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.pdb
