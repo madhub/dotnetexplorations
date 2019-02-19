@@ -12203,11 +12203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
+      "projectPath": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
       "packagesPath": "C:\\Users\\bs_ma\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\IdentityServer\\obj\\",
+      "outputPath": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

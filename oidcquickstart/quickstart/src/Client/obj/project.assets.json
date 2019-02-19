@@ -793,11 +793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\Client\\Client.csproj",
+      "projectUniqueName": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\Client\\Client.csproj",
+      "projectPath": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\bs_ma\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\dotnetapps\\oidcquickstart\\quickstart\\src\\Client\\obj\\",
+      "outputPath": "E:\\dev\\dotnetapps\\dotnetexplorations\\oidcquickstart\\quickstart\\src\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
